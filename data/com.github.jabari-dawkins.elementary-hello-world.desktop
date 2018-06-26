@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Hello World
+GenericName=Hello World App
+Comment=Trying out this Vala + Gtk desktop application development
+Categories=Utility;Education;
+Exec=com.github.jabari-dawkins.elementary-hello-world
+Icon=application-default-icon
+Terminal=false
+Type=application
+X-GNOME-Gettext-Domain=hello-world
+Keywords=Hello;World;Example;Test;
