@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2018 <jabaridawkins@gmail.com> -->
+<component type="desktop">
+    <id>com.github.jabari-dawkins.elementary-hello-world.desktop</id>
+    <metadata_license>CC0</metadata_license>
+    <name>Hello World</name>
+    <summary>Hello, World!</summary>
+    <description>
+        This is a Hello World application to learn how to develop desktop applications for ElementaryOS.
+    </description>
+    <custom>
+        <value key="x-appcenter-suggested-price">0</value>
+        <value key="x-appcenter-color-primary">#9FDBC9</value>
+        <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+    </custom>
+</component>
