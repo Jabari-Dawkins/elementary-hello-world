@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+615ebd5f797c9f384531caa9489832e6 com.github.jabari-dawkins.elementary-hello-world_valac.stamp
+75f5da32329b040f4679928fc1abfb2d src/hello.c

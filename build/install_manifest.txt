@@ -1,0 +1,3 @@
+/usr/bin/com.github.jabari-dawkins.elementary-hello-world
+/usr/share/applications/com.github.jabari-dawkins.elementary-hello-world.desktop
+/usr/share/metainfo/com.github.jabari-dawkins.elementary-hello-world.appdata.xml

@@ -1,0 +1,7 @@
+/home/jabari/Development/elementary-apps/elementary-hello-world/build/CMakeFiles/install.dir
+/home/jabari/Development/elementary-apps/elementary-hello-world/build/CMakeFiles/list_install_components.dir
+/home/jabari/Development/elementary-apps/elementary-hello-world/build/CMakeFiles/rebuild_cache.dir
+/home/jabari/Development/elementary-apps/elementary-hello-world/build/CMakeFiles/com.github.jabari-dawkins.elementary-hello-world.dir
+/home/jabari/Development/elementary-apps/elementary-hello-world/build/CMakeFiles/install/strip.dir
+/home/jabari/Development/elementary-apps/elementary-hello-world/build/CMakeFiles/install/local.dir
+/home/jabari/Development/elementary-apps/elementary-hello-world/build/CMakeFiles/edit_cache.dir

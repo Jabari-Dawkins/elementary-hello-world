@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jabari/Development/elementary-apps/elementary-hello-world/build/src/hello.c
+glib.h
+-
+glib-object.h
+-
+gtk/gtk.h
+-
+gio/gio.h
+-
+stdlib.h
+-
+string.h
+-
+
