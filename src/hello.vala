@@ -1,11 +1,5 @@
 using Gtk;
 
-/* Potential Names:
-- NotePass
-- Chalkboard
-- Psst
-*/
-
 class HelloWorldApp : Gtk.Application {
     private Gtk.ApplicationWindow main_window;
     private Gtk.HeaderBar main_header;
@@ -63,26 +57,3 @@ class HelloWorldApp : Gtk.Application {
         return app.run(args);
     }
 }
-
-/*
-int main(string[] args) {
-    Gtk.init(ref args);
-
-    var header = new Gtk.HeaderBar();
-    var window = new Gtk.Window();
-
-    header.set_show_close_button(true);
-    window.set_titlebar(header);
-    window.destroy.connect(Gtk.main_quit);
-    window.set_default_size(350, 70);
-    window.border_width = 10;
-
-    window.add(new Gtk.Button.with_label("Hello Elementary"));
-    window.show_all();
-    
-
-    Gtk.main();
-
-    return 0;
-}
-*/
